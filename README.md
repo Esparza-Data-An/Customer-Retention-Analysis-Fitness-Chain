@@ -81,5 +81,5 @@ precision and recall for identifying at-risk customers.
 ```
 ├── datasets/
 │   └── gym_churn_us.csv     # Dataset
-├── notebook.ipynb       # Full analysis and modeling
+├── fitness_chain.ipynb       # Full analysis and modeling
 └── README.md
