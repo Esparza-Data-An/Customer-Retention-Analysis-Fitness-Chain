@@ -6,6 +6,10 @@ which clients are likely to leave and why. This project builds a churn
 prediction model and segments customers into behavioral profiles to support 
 data-driven retention strategies.
 
+## Note on Language
+The Jupyter notebook and internal comments are currently in Spanish.
+An English version is in progress.
+
 ## Objectives
 - Predict the probability of churn for each customer in the following month.
 - Identify the most influential features driving cancellations.
